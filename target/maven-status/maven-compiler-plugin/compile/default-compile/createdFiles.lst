@@ -1,9 +1,0 @@
-com\example\tcg\config\CorsConfig.class
-com\example\tcg\controller\UsuarioController.class
-com\example\tcg\service\UsuarioService.class
-com\example\tcg\TcgApplication.class
-com\example\tcg\config\SwaggerConfig.class
-com\example\tcg\model\Usuario.class
-com\example\tcg\model\Entity\UsuarioEntity.class
-com\example\tcg\config\CorsConfig$1.class
-com\example\tcg\repository\UsuarioRepository.class
